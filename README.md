@@ -55,6 +55,4 @@ GET  /api/problems - Fetch all problem data
 LICENSE:   MIT License - Free to use and modify
 LIVE DEMO: https://py-compiler-ten.vercel.app/
 
-=======================
 Created with 🐍 Python
-=======================
